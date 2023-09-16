@@ -1,3 +1,3 @@
 # JWT Auth in Spring
 
-Java Spring boot JWT Auth and autho 
+Java Spring boot JWT Auth and authorization.
